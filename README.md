@@ -9,7 +9,7 @@
 Ett repo för projektarbetet i kursen EDAA30 HT22. En sudokulösare och ett grafiskt användargränssnit.
 
 ## Bilder
-![SudokuSteps](https://user-images.githubusercontent.com/58792679/207030801-50aac1ff-08c0-4e55-991b-82be9ea5ff7f.svg)
+![SudokuSteps](https://user-images.githubusercontent.com/58792679/207032191-14135481-26dc-404a-be52-396745ebc19d.svg)
 
 
 	
